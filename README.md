@@ -13,3 +13,4 @@ yeh batata hai ki jaha push pull ho raha hain woh kya remote hain?
 basically example se samjo: three frends hain  woh 3 alag branch mein sme project par kaam karte hain and then later they merge it
 
 # Tracking changes
+just checking after pushing the project if changes can be seen in the files
