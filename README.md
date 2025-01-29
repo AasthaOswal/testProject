@@ -14,3 +14,18 @@ basically example se samjo: three frends hain  woh 3 alag branch mein sme projec
 
 # Tracking changes
 just checking after pushing the project if changes can be seen in the files
+
+# git push -u origin main
+matlab origin ko set kar rahe hain
+ab iske baad sirf git push likhna hain
+result after using this command:
+PS C:\Users\AASTHA OSWAL\ACWebDev\31_Git_and_gitHub\testProject> git push -u origin main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
+PS C:\Users\AASTHA OSWAL\ACWebDev\31_Git_and_gitHub\testProject> 
+
+# git commit -am "messgae"
+basically combining flags:
+-a is for add
+-m message
+
