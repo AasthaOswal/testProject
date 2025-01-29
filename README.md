@@ -18,7 +18,11 @@ just checking after pushing the project if changes can be seen in the files
 # git push -u origin main
 matlab origin ko set kar rahe hain
 ab iske baad sirf git push likhna hain
-result after using this command:
+
+# -u in above comand means upstream
+upstream matlab upar, matlab cloud, github jaha bhi hume data bhejna hain woh humne set kar diya, ki bass yahi par data bhejo!
+
+# result after using above command:
 PS C:\Users\AASTHA OSWAL\ACWebDev\31_Git_and_gitHub\testProject> git push -u origin main
 branch 'main' set up to track 'origin/main'.
 Everything up-to-date
