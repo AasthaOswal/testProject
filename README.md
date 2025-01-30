@@ -33,3 +33,9 @@ basically combining flags:
 -a is for add
 -m message
 
+# merging branched waale mein yeh comment hain ki
+jab feature branch mein changes kiye
+usko add and commit kiya
+uske baad push nahinho paya kyuki error aaya i feature branch ke liye no upstream is set
+Hence to set upstream we wrote this command:
+# git push --set-upstream origin feature
